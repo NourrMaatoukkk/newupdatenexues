@@ -1,0 +1,6 @@
+timestamp,branch,item,status,supplier,message
+"2026-04-30 16:19:17","Cairo","MacBook","REQUEST","","Cairo requested MacBook"
+"2026-04-30 16:19:17","Cairo","MacBook","APPROVED","Apple Supplier","M00 APPROVED: MacBook for Cairo"
+"2026-04-30 16:19:17","Cairo","MacBook","SUPPLIER_CONTACTED","Apple Supplier","M00 CONTACTED: Apple Supplier for MacBook"
+"2026-04-30 16:19:17","Cairo","MacBook","SUPPLIER_CONFIRMED","Apple Supplier","SUPPLIER CONFIRMED: Apple Supplier approved new stock for MacBook"
+"2026-04-30 16:19:17","Cairo","MacBook","BRANCH_UPDATED","Apple Supplier","M00 UPDATED BRANCH: Cairo confirmed incoming stock for MacBook"
